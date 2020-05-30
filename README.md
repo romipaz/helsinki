@@ -1,2 +1,2 @@
-# helsinki-fullstack2020
+# helsinki
 Exercises Submissions
