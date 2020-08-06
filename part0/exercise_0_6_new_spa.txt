@@ -1,0 +1,5 @@
+title Exercise 0.6: Single Page App
+
+
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+server-->browser: HTML Status: 201 Created | Response: {"message":"note created"}

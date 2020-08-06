@@ -17,3 +17,10 @@ Create a diagram depicting the situation where the user goes to the single page 
 * __Solution__:
 
 ![Part0-Solution-0.5](./exercise_0_5_spa.png)
+
+## Exercise 0.6: New Note SPA:
+Create a diagram depicting the situation where user creates a new note using the single page version of the app.
+
+* __Solution__:
+
+![Part0-Solution-0.6](./exercise_0_6_spa.png)
