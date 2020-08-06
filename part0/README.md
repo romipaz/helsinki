@@ -9,4 +9,5 @@ All necessary information for doing this, and the next two exercises, can be fou
 
 * __Solution__:
 
-![Part0 Solution](part0/exercise_0_4_ new_note.png)
+![Part0-Solution](./exercise_0_4_new_note.png)
+
