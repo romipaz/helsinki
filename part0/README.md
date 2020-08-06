@@ -9,5 +9,11 @@ All necessary information for doing this, and the next two exercises, can be fou
 
 * __Solution__:
 
-![Part0-Solution](./exercise_0_4_new_note.png)
+![Part0-Solution-0.4](./exercise_0_4_new_note.png)
 
+## Exercise 0.5: SPA:
+Create a diagram depicting the situation where the user goes to the single page app version of the notes app at https://fullstack-exampleapp.herokuapp.com/spa.
+
+* __Solution__:
+
+![Part0-Solution-0.5](./exercise_0_5_spa.png)
