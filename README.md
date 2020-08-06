@@ -4,7 +4,7 @@ Exercise submissions.
 
 ## Course Content:
 
-* __Part 0__
+* [__Part 0__](./part0)
     * Fundamentals of Web apps
 * __Part 1__
     * Introduction to React
